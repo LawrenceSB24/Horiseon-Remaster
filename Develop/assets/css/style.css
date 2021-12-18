@@ -1,0 +1,155 @@
+/*TODO: This is the edited css file with all the elements organized into the proper order */
+
+/*This is a universal selector. It affects the attributes of ALL the elements*/
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*body design section*/ 
+body {
+    background-color: #d9dcd6;
+}
+/*body design section*/
+
+
+/*Header Formatting section */
+header {
+    padding: 20px;
+    background-color: #2a607c;
+    color: #ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+header h1 .seo {
+    color: #d9dcd6;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header nav {
+    margin-right: 20px;
+    padding-top: 15px;
+    float: right;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*Header design section */
+
+
+/*Footer design section*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+/*Footer design section*/
+
+
+/*paragraph style section*/
+p {
+    font-size: 16px;
+}
+
+/*main style section*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    display: inline-block;
+    width: 75%;
+    margin-left: 20px;
+}
+
+.article-name {
+    height: 300px;
+    margin-bottom: 20px;
+    padding: 50px;
+    background-color: #0072bb;
+    color: #ffffff;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.article-name img {
+    max-height: 200px;
+}
+
+.article-name h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.float-left {
+    margin-right: 25px;
+    float: left;
+}
+
+.float-right {
+    margin-left: 25px;
+    float: right;
+}
+/*main style section*/
+
+/*Benefits tab styling section*/
+.benefits {
+    height: 100%;
+    width: 20%;
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    clear: both;
+    background-color: #2589bd;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.benefit{
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+
+.benefit img {
+    display: block;
+    max-width: 150px;
+    margin: 10px auto;
+}
+/*Benefits tab styling section*/
+
+
