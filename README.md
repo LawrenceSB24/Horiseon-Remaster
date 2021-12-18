@@ -50,3 +50,10 @@ Our HTML file [index.html] that will form the backbone of our website
 The CSS [style.css] and image [images] that will help to design our website for our specific needs. This will be located in the assets folder [assets]
 
 The refactored code provied doesn't alter any of the websites attributes. The only changes that have been made are the semantc structure of the HTML and CSS elements have been formatted into their proper orientation and the beforementioned comments. 
+
+Here is a preview of the site: 
+
+```md
+![Horiseon-homepage-with-navigations-and-definitions](./assets/images/Screenshot(6).jpg)
+
+```
