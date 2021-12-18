@@ -54,5 +54,5 @@ The refactored code provied doesn't alter any of the websites attributes. The on
 Here is a preview of the site: 
 
 ```md
-![The homepage contains a navigation bar, an image for the header, and description cards with text and images at the bottom of the site.](./assets/Screenshot(6).jpg)
+![Preview image for the homepage. Contains a navigation bar, a placeholder image in the header, and cards with text and images at the bottom of the page](./Preview/Horiseon-homepage.jpg)
 ```
