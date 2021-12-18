@@ -72,4 +72,4 @@ Additionally, there is other information such as:
 
 These are located next to the navigation bar with details at the bottom of the respective icons.
 
-To view the live product of the website, ###visit##: [Horiseon-Remaster](https://lawrencesb24.github.io/Horiseon-Remaster/)
+To view the live product of the website, **visit**: [Horiseon-Remaster](https://lawrencesb24.github.io/Horiseon-Remaster/)
