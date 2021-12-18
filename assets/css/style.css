@@ -11,10 +11,10 @@
 body {
     background-color: #d9dcd6; /*Color for the background of the site. Can be in text or hexadecimal format.*/
 }
-/*body design section*/
 
 
-/*Header Formatting section */
+/*main style section beginning*/
+/*Header Formatting section beginning */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -54,10 +54,10 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*Header design section */
+/*Header design section end */
 
 
-/*Footer design section*/
+/*Footer design section beginning*/
 footer {
     padding: 30px;
     clear: both;
@@ -68,7 +68,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/*Footer design section*/
+/*Footer design section end*/
 
 
 /*paragraph style section*/
@@ -76,7 +76,7 @@ p {
     font-size: 16px;
 }
 
-/*main style section*/
+/*The hero class selector contains the style and format for the background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -86,13 +86,14 @@ p {
     background-position: center;
 }
 
+/*The content selector yields the formatting for the elements selceted within it*/
 .content {
     display: inline-block;
     width: 75%;
     margin-left: 20px;
 }
 
-/*Consolidates styling and formatting for all elements within the article class*/
+/*Consolidates styling and formatting for all elements within the article-name class*/
 .article-name {
     height: 300px;
     margin-bottom: 20px;
@@ -111,19 +112,21 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*article-name styling section end*/
 
+/*Elements with the float-left selector will float to the left of its container*/
 .float-left {
     margin-right: 25px;
     float: left;
 }
 
+/*Elements with the float-right selector will float to the right of its container*/
 .float-right {
     margin-left: 25px;
     float: right;
 }
-/*main style section*/
 
-/*Benefits tab styling section*/
+/*Benefits tab styling section beginning*/
 .benefits {
     height: 100%;
     width: 20%;
@@ -135,6 +138,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/*This section focuses on all elements within the benefit selctor*/
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
@@ -152,6 +156,9 @@ p {
     max-width: 150px;
     margin: 10px auto;
 }
-/*Benefits tab styling section*/
+/*benefit styling end*/
+/*benefits tab styling section end*/
+
+/*main styling section end*/
 
 
