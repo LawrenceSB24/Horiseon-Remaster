@@ -54,3 +54,22 @@ The refactored code provied doesn't alter any of the websites attributes. The on
 Here is a preview of the site: 
 
 ![Preview image for the homepage. Contains a navigation bar, a placeholder image in the header, and cards with text and images at the bottom of the page](./Preview/Horiseon-homepage.jpg)
+
+### website content
+
+There are 3 shortcuts the website offers the user:
+> 1. Search Engine Optimization
+> 2. Online Reputation Management
+> 3. Social Media Marketing
+
+These can be accessed by clicking on the icons in the header, which will bring you to the definition of the term chosen.
+
+Additionally, there is other information such as:
+
+> 1. Lead Generation
+> 2. Brand Awareness
+> 3. Cost Management
+
+These are located next to the navigation bar with details at the bottom of the respective icons.
+
+To view the live product of the website, ###visit##: [Horiseon-Remaster](https://lawrencesb24.github.io/Horiseon-Remaster/)
