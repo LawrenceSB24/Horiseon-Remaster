@@ -9,12 +9,12 @@
 
 /*body design section*/ 
 body {
-    background-color: #d9dcd6;
+    background-color: #d9dcd6; /*Color for the background of the site. Can be in text or hexadecimal format.*/
 }
-/*body design section*/
 
 
-/*Header Formatting section */
+
+/*Header Formatting section beginning*/
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -36,6 +36,7 @@ header a {
     text-decoration: none;
 }
 
+/*This affects the style and formatting for the navigation elements within the header*/
 header nav {
     margin-right: 20px;
     padding-top: 15px;
@@ -53,10 +54,10 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-/*Header design section */
+/*Header design section end*/
 
 
-/*Footer design section*/
+/*Footer design section beginning*/
 footer {
     padding: 30px;
     clear: both;
@@ -67,7 +68,7 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-/*Footer design section*/
+/*Footer design section end*/
 
 
 /*paragraph style section*/
@@ -75,7 +76,7 @@ p {
     font-size: 16px;
 }
 
-/*main style section*/
+/*main style section beginning*/
 .hero {
     height: 800px;
     width: 100%;
@@ -91,7 +92,8 @@ p {
     margin-left: 20px;
 }
 
-.article-name {
+/*Consolidates styling and formatting for all elements within the article selector*/
+.article {
     height: 300px;
     margin-bottom: 20px;
     padding: 50px;
@@ -101,11 +103,11 @@ p {
 }
 
 
-.article-name img {
+.article img {
     max-height: 200px;
 }
 
-.article-name h2 {
+.article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -119,9 +121,9 @@ p {
     margin-left: 25px;
     float: right;
 }
-/*main style section*/
+/*main style section end*/
 
-/*Benefits tab styling section*/
+/*Benefits tab styling section beginning*/
 .benefits {
     height: 100%;
     width: 20%;
@@ -133,6 +135,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+/*This cosolidates the styling and formating for all elements within the benefit selector*/
 .benefit{
     margin-bottom: 32px;
     color: #ffffff;
@@ -150,6 +153,10 @@ p {
     max-width: 150px;
     margin: 10px auto;
 }
-/*Benefits tab styling section*/
+/*Benefits tab styling section end*/
 
+
+/*Selectors that do not have a period before them are element selectors*/
+
+/*Selectors starting with a period are class selectors. They select all elements within the given class.*/
 
