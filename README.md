@@ -54,5 +54,5 @@ The refactored code provied doesn't alter any of the websites attributes. The on
 Here is a preview of the site: 
 
 ```md
-![Horiseon-homepage-with-navigations-and-definitions](./assets/Screenshot(6).jpg)
+![The homepage contains a navigation bar, an image for the header, and description cards with text and images at the bottom of the site.](./assets/Screenshot(6).jpg)
 ```
